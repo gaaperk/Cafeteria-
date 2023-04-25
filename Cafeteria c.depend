@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1541990988 source:c:\users\usuario\desktop\cafc++\cafeteria c\main.cpp
+	<iostream>
+	<sstream>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<windows.h>
+
